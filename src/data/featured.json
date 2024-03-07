@@ -1,0 +1,32 @@
+[
+  {
+    "id": "50b58a70-a98e-445a-904d-b619cc54ca46",
+    "title": "Lake Glenbawn",
+    "location": "NSW, Australia",
+    "imageUrl": ""
+  },
+  {
+    "id": "c75f8e0a-4def-43ce-bfce-a29dd9115454",
+    "title": "Whitsundays",
+    "location": "Queensland, Australia",
+    "imageUrl": ""
+  },
+  {
+    "id": "7d40044d-d7b3-4a8b-9e82-12af50e33094",
+    "title": "Kimberley",
+    "location": "Western Australia",
+    "imageUrl": ""
+  },
+  {
+    "id": "ff519744-1bd4-41e1-adf0-06346d8bbf1c",
+    "title": "Cairns",
+    "location": "Queensland, Australia",
+    "imageUrl": ""
+  },
+  {
+    "id": "8142763c-7fa5-40f6-8807-7294e4da535d",
+    "title": "Rottnest Island",
+    "location": "Western Australia",
+    "imageUrl": ""
+  }
+]
