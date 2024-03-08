@@ -4,11 +4,11 @@ import { IoMdPin } from "react-icons/io";
 
 import placeholder from "../assets/placeholder.webp";
 
-type ImageTileProps = {
+type CardProps = {
   data: CardData;
 };
 
-const ImageTile = ({ data }: ImageTileProps) => {
+const Card = ({ data }: CardProps) => {
   const resolveImageUrl = () => {
     return data.imageUrl ? `/samples/${data.imageUrl}` : placeholder;
   };
@@ -16,7 +16,11 @@ const ImageTile = ({ data }: ImageTileProps) => {
   return (
     <div className="border border-grey cursor-pointer rounded-md transition duration-200 hover:border-blue-400 hover:shadow-md hover:scale-x-105">
       <div>
-        <img src={resolveImageUrl()} className="h-36 w-full rounded-t-md" />
+        <img
+          src={resolveImageUrl()}
+          className="h-36 w-full rounded-t-md"
+          alt={`Image for '${data.title}'`}
+        />
       </div>
       <div className="p-3 border-t border-grey">
         <p className="text-xs font-bold leading-relaxed text-primary truncate">
@@ -37,4 +41,4 @@ const ImageTile = ({ data }: ImageTileProps) => {
   );
 };
 
-export default ImageTile;
+export default Card;

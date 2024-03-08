@@ -54,3 +54,11 @@ total time spent (approx.)
 Lastly
 We understand software engineering requires discourse. Whether it’s confirming
 assumptions, clarification of acceptance criteria or general feedback, it’s all welcome.
+
+Future improvements
+
+- Routing
+- API integration
+- Images are in public folder, should be a url to an online resource (e.g. Azure blob)
+- Config in .env variables
+- Dark mode needs more features, just a simple version was implemented
