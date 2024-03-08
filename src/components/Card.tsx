@@ -28,10 +28,10 @@ const Card = ({ data }: CardProps) => {
         </p>
         <div className="flex items-center mt-1">
           <div className="inline-block">
-            <IoMdPin className="text-gray-500" />
+            <IoMdPin className="text-secondary" />
           </div>
           <div className="inline-block ms-1">
-            <p className="text-xs font-bold leading-relaxed text-gray-500">
+            <p className="text-xs font-bold leading-relaxed text-secondary truncate text-ellipsis overflow-hidden">
               {data.location}
             </p>
           </div>

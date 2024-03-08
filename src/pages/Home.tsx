@@ -117,13 +117,13 @@ const Home = () => {
                   </Carousel>
                 </div>
               ) : (
-                <p className="text-xs font-bold leading-loose text-gray-500">
+                <p className="text-xs font-bold leading-loose text-secondary">
                   No results matching your search text was found.
                 </p>
               )}
             </>
           ) : (
-            <p className="text-xs font-bold leading-loose text-gray-500">
+            <p className="text-xs font-bold leading-loose text-secondary">
               Loading data...
             </p>
           )}
@@ -142,7 +142,7 @@ const Home = () => {
               ))}
             </div>
           ) : (
-            <p className="text-xs font-bold leading-loose text-gray-500">
+            <p className="text-xs font-bold leading-loose text-secondary">
               Loading data...
             </p>
           )}

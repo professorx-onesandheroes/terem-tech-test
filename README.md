@@ -62,3 +62,4 @@ Future improvements
 - Images are in public folder, should be a url to an online resource (e.g. Azure blob)
 - Config in .env variables
 - Dark mode needs more features, just a simple version was implemented
+- Some styling issues (long text overlap in cards)
