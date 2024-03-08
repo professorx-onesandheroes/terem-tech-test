@@ -1,32 +1,74 @@
 [
   {
     "id": "50b58a70-a98e-445a-904d-b619cc54ca46",
-    "title": "Lake Glenbawn",
-    "location": "NSW, Australia",
-    "imageUrl": ""
+    "title": "Great Ocean Road",
+    "location": "Victoria, Australia",
+    "imageUrl": "great-ocean-road.webp"
   },
   {
     "id": "c75f8e0a-4def-43ce-bfce-a29dd9115454",
-    "title": "Whitsundays",
-    "location": "Queensland, Australia",
-    "imageUrl": ""
+    "title": "Blue Mountains National Park",
+    "location": "NSW, Australia",
+    "imageUrl": "hanging-rocks.webp"
   },
   {
     "id": "7d40044d-d7b3-4a8b-9e82-12af50e33094",
-    "title": "Kimberley",
-    "location": "Western Australia",
-    "imageUrl": ""
+    "title": "Fraser Island",
+    "location": "NSW, Australia",
+    "imageUrl": "fraser-island.webp"
   },
   {
     "id": "ff519744-1bd4-41e1-adf0-06346d8bbf1c",
-    "title": "Cairns",
-    "location": "Queensland, Australia",
-    "imageUrl": ""
+    "title": "Uluru",
+    "location": "Northern Territory",
+    "imageUrl": "uluru-monolith.webp"
   },
   {
     "id": "8142763c-7fa5-40f6-8807-7294e4da535d",
-    "title": "Rottnest Island",
+    "title": "Skiing At Snowy Mountains",
+    "location": "Various locations",
+    "imageUrl": "skiing-resort.webp"
+  },
+  {
+    "id": "0ef5771e-c9a2-4e42-b084-17f609ef8b33",
+    "title": "Bondi Beach",
+    "location": "NSW, Australia",
+    "imageUrl": "bondi-beach.webp"
+  },
+  {
+    "id": "e8e0e2e6-6c50-410a-a4ef-bfb2e413073e",
+    "title": "Daintree National Park",
+    "location": "Queensland, Australia",
+    "imageUrl": "daintree-national-park.webp"
+  },
+  {
+    "id": "4fb9e993-da87-42e4-b31f-3d7b1eb7660b",
+    "title": "Cradle Mountain",
+    "location": "Tasmania, Australia",
+    "imageUrl": "cradle-mountain.webp"
+  },
+  {
+    "id": "329cb319-8c76-443f-91aa-faf19f2b1e29",
+    "title": "Taronga Zoo",
+    "location": "NSW, Australia",
+    "imageUrl": "taronga-zoo.webp"
+  },
+  {
+    "id": "063b4cb4-464b-440f-9d90-d2cc9be96469",
+    "title": "Nambung National Park",
     "location": "Western Australia",
-    "imageUrl": ""
+    "imageUrl": "nambung-national-park.webp"
+  },
+  {
+    "id": "3fa4a182-f803-4241-b74d-88986be2780f",
+    "title": "Malcolm Douglas Wilderness Wildlife Park",
+    "location": "Western Australia",
+    "imageUrl": "malcom-douglas.webp"
+  },
+  {
+    "id": "fc793492-d55e-4a61-8f56-31f3d080b821",
+    "title": "Gantheaume Point",
+    "location": "Western Australia",
+    "imageUrl": "gantheaume-point.webp"
   }
 ]
