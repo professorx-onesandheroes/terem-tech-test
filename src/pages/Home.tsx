@@ -118,7 +118,7 @@ const Home = () => {
                 </div>
               ) : (
                 <p className="text-xs font-bold leading-loose text-secondary">
-                  No results matching your search text was found.
+                  No results matching your search text were found.
                 </p>
               )}
             </>
